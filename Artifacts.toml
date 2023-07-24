@@ -1,0 +1,57 @@
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "599062eb64651c24825f61e9da503d674fd201e4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "066275461d46009455a01f279237d30c81655ede57b52f2c99aa6258015c2587"
+    url = "https://github.com/WilliBee/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "85ff3939c05da06fb42798f2934de8ebf3bbbd86"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "f14ae15e7105616fa51d548e59f544af79ca71efcc86413d4a1a24a89b2b1f7d"
+    url = "https://github.com/WilliBee/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "28a8b44f2b818fa5aaaf12155b26164c3ba640aa"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[stldecomposition.download]]
+    sha256 = "16d1cdfb6ac316fbd0e194de2fd14462e85ec5e941de60abab543cfa8409e7e1"
+    url = "https://github.com/WilliBee/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "9ba70aa7e57e358f382b4386a63be0bb1bc2eb90"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "06b58ce9eb117deadee6c2007da9ea9e037fa5b218c0173e6b4bfaec01a6f5ae"
+    url = "https://github.com/WilliBee/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "0e7529340e61743bf75375bd20d8485fa0dd6cee"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "51d2e8827e378fd269f100f7ae6598338e547a36af949eb32f0b85733a8d08b0"
+    url = "https://github.com/WilliBee/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[stldecomposition]]
+arch = "x86_64"
+git-tree-sha1 = "38790b7ede61b922aaeeea8af163902a520e4496"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[stldecomposition.download]]
+    sha256 = "e4e031e7b41232215713b896bb66e73343549aa3a5e356c71ac6dc53399866cf"
+    url = "https://github.com/WilliBee/stldecomposition_jll.jl/releases/download/stldecomposition-v0.1.0+0/stldecomposition.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
